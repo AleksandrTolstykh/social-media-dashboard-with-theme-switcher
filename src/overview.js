@@ -1,0 +1,68 @@
+const overview = [
+  {
+    title: 'Page Views',
+    icon: 'facebook',
+    color: 'hsl(208, 92%, 53%)',
+    amount: 87,
+    directionIcon: 'up',
+    todayChange: '3%',
+  },
+  {
+    title: 'Likes',
+    icon: 'facebook',
+    color: 'hsl(208, 92%, 53%)',
+    amount: 52,
+    directionIcon: 'down',
+    todayChange: '2%',
+  },
+  {
+    title: 'Likes',
+    icon: 'instagram',
+    color: 'hsl(329, 70%, 58%)',
+    amount: 5462,
+    directionIcon: 'up',
+    todayChange: '2257%',
+  },
+  {
+    title: 'Profile Views',
+    icon: 'instagram',
+    color: 'hsl(329, 70%, 58%)',
+    amount: '52k',
+    directionIcon: 'up',
+    todayChange: '1375%',
+  },
+  {
+    title: 'Retweets',
+    icon: 'twitter',
+    color: 'hsl(203, 89%, 53%)',
+    amount: 117,
+    directionIcon: 'up',
+    todayChange: '303%',
+  },
+  {
+    title: 'Likes',
+    icon: 'twitter',
+    color: 'hsl(203, 89%, 53%)',
+    amount: 507,
+    directionIcon: 'up',
+    todayChange: '553%',
+  },
+  {
+    title: 'Likes',
+    icon: 'youtube',
+    color: 'hsl(348, 97%, 39%)',
+    amount: 107,
+    directionIcon: 'down',
+    todayChange: '19%',
+  },
+  {
+    title: 'Total Views',
+    icon: 'youtube',
+    color: 'hsl(348, 97%, 39%)',
+    amount: 1407,
+    directionIcon: 'down',
+    todayChange: '12%',
+  },
+];
+
+export default overview;
